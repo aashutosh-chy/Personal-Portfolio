@@ -1,22 +1,22 @@
 [
   {
     "name": "Cryptography-and-Steganography",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "In our final year of B. Tech, we developed a small Java application. To encrypt, decrypt, and hide data in multimedia files.",
     "image": "notystackandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://www.linkedin.com/in/aashutos/",
+      "code": "https://github.com/aashutosh-chy/Cryptography-and-Steganography-Minor-Project-_BTech"
     }
   },
   {
     "name": "Password Manager",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "desc": "As a significant project for our last year of B. Tech, we developed a password management system that stores user passwords securely and restricts access to only those who are permitted.",
     "image": "sppuprepandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
+      "view": "https://www.linkedin.com/in/aashutos/",
+      "code": "https://github.com/aashutosh-chy/password-manager"
     }
   },
   {
@@ -25,8 +25,8 @@
     "image": "newsboxandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
+      "view": "https://www.linkedin.com/in/aashutos/",
+      "code": "https://github.com/aashutosh-chy/Personal-Portfolio"
     }
   }
 ]
