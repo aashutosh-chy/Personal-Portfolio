@@ -19,10 +19,10 @@
         "name": "Patch",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
-    <!-- {
+    {
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }, -->
+    },
     {
         "name": "Virtual Machine",
         "icon": "https://img.icons8.com/color/48/000000/virtualbox.png"
