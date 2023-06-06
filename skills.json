@@ -28,19 +28,23 @@
         "icon": "https://img.icons8.com/color/48/000000/linux.png"
     },
     {
-        "name": "Davinci Resolve",
+        "name": "Network Security",
         "icon": "https://img.icons8.com/color/48/000000/davinci-resolve.png"
     },
     {
         "name": "Visual Studio Code",
         "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
     },
+   {
+        "name": "Davinci Resolve",
+        "icon": "https://img.icons8.com/color/48/000000/davinci-resolve.png"
+    },
     {
-        "name": "Adobe XD",
+        "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/adobe-xd.png"
     },
     {
-        "name": "Cisco Packet Tracer",
+        "name": "C++",
         "icon": "https://img.icons8.com/color/48/000000/cisco-router.png"
     }  
 ]
