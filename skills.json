@@ -4,26 +4,22 @@
         "icon": "https://icons8.com/icon/6Vg2S2R4bBP7/metal-heater-shield.png"
     },
     {
-        "name": "PAM",
+        "name": "Privileged Access Management (PAM)",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
     {
-        "name": "Identity and Access Management",
+        "name": "Identity and Access Management (IAM)",
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
     },
     {
-        "name": "Vulnerability",
+        "name": "Vulnerability Management",
         "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
     },
     {
-        "name": "Patch",
+        "name": "Patch Management",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
-    {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    },
-    {
+     {
         "name": "Virtual Machine",
         "icon": "https://img.icons8.com/color/48/000000/virtualbox.png"
     },
