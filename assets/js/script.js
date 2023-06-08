@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Aashutosh Chaudhary";
+            document.title = "Portfolio | Er.Aashutosh Chaudhary";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
