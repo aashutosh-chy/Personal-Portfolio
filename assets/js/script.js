@@ -63,8 +63,8 @@ document.addEventListener('visibilitychange',
             $("#favicon").attr("href", "assets/images/hero2.png");
         }
         else {
-            document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "assets/images/favhand.png");
+            document.title = "Return To Portfolio";
+            $("#favicon").attr("href", "assets/images/return2.png");
         }
     });
 
