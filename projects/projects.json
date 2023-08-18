@@ -3,7 +3,7 @@
     "name": "Cryptography-and-Steganography",
     "desc": "In our final year of B. Tech, we developed a small Java application. To encrypt, decrypt, and hide data in multimedia files.",
     "image": "notystackandroid",
-    "category": "android",
+    "category": "security",
     "links": {
       "view": "https://www.linkedin.com/in/aashutos/",
       "code": "https://github.com/aashutosh-chy/Cryptography-and-Steganography-Minor-Project-_BTech"
@@ -13,7 +13,7 @@
     "name": "Password Manager",
     "desc": "As a significant project for our last year of B. Tech, we developed a password management system that stores user passwords securely and restricts access to only those who are permitted.",
     "image": "sppuprepandroid",
-    "category": "android",
+    "category": "security",
     "links": {
       "view": "https://www.linkedin.com/in/aashutos/",
       "code": "https://github.com/aashutosh-chy/password-manager"
@@ -23,7 +23,7 @@
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "newsboxandroid",
-    "category": "android",
+    "category": "portfolio",
     "links": {
       "view": "https://www.linkedin.com/in/aashutos/",
       "code": "https://github.com/aashutosh-chy/Personal-Portfolio"
