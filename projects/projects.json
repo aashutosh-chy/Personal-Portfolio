@@ -11,7 +11,7 @@
   },
   {
     "name": "Password Manager",
-    "desc": "As a significant project for our last year of B. Tech, we developed a password management system that stores user passwords securely and restricts access to only those who are permitted.",
+    "desc": "For our final year of B. Tech, we created a secure password management system. It stores user passwords safely and grants access exclusively to authorized individuals.",
     "image": "sppuprepandroid",
     "category": "security",
     "links": {
