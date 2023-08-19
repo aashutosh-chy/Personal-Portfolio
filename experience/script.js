@@ -65,11 +65,11 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Aashutosh Chaudhary";
-        $("#favicon").attr("href","/assets/images/favicon.png");
+        document.title = "Experience | Aashutosh Chaudhary";
+        $("#favicon").attr("href","/assets/images/hero2.png");
     }
     else {
-        document.title = "Come Back To Portfolio";
-        $("#favicon").attr("href","/assets/images/favhand.png");
+        document.title = "Return To Portfolio";
+        $("#favicon").attr("href","/assets/images/backs.png");
     }
 });
